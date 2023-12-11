@@ -10,7 +10,7 @@ The project aims to demonstrate the efficiency and performance gains achieved th
 
 ### Features
 
-- **Matrix Multiplication: Implements matrix multiplication algorithms for each approach.
+- Matrix Multiplication: Implements matrix multiplication algorithms for each approach.
 - Performance Analysis: Measures execution time for each approach.
 - Platform Emphasis: Prioritizes execution on a dual-boot Ubuntu system over a virtual machine for accurate performance evaluation.
 
